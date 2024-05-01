@@ -1,4 +1,4 @@
-```markdown
+
 # README.md
 
 ## Project Setup
@@ -62,4 +62,3 @@ This will download and install all the necessary dependencies listed in the `req
   ```bash
   conda deactivate
   ```
-```
